@@ -1,0 +1,11 @@
+<Entry>
+    <Scope type="UserByEmail">
+       <EmailAddress>
+        jane@gmail.com
+        </EmailAddress>
+    </Scope>
+    <Permission>
+        READ
+    </Permission>
+</Entry>
+
